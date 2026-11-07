@@ -1,4 +1,4 @@
-# Gleam Dental Care — Booking Platform Demo
+# Gleam Dental Care — Booking Platform
 
 A clickable sales demo of an **in-house patient booking platform** for Gleam Dental Care
 (Atlantic Dentistry — Atlantic Beach & Bartram Park, Jacksonville FL). It replaces the
